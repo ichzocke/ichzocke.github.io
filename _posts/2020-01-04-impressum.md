@@ -22,3 +22,4 @@ Sensengasse 3a (Raum O4.04)
 
 Theme design von Tim O'Brien  
 Flyer design von Canva  
+Icon design von fontawesome  

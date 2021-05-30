@@ -14,7 +14,7 @@ markdown: kramdown
 
 
 ### content configuration ###
-title:       "Ich ❤️ Zocke"
+title:       "Ich ❤️ Zocken"
 keywords:    "Zocken, Uni Wien, Forschung, Games"
 description: ""
 favicon:     "img/favicon.ico"

@@ -24,10 +24,10 @@ touch_icon:  "img/apple-touch-icon.png"
 colors:
   black:     '#111111'
   white:     '#f8f8f8'
-  blue:      '#49a7e9'
-  green:     '#9bcf2f'
+  blue:      '#446A87'
+  green:     '#00B796'
   purple:    '#c869bf'
-  orange:    '#fab125'
+  orange:    '#F78076'
   turquoise: '#0fbfcf'
 
 kramdown:

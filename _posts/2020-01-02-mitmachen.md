@@ -5,19 +5,28 @@ color: white
 fa-icon: user
 ---
 
-## Mach mit
+## Mach mit und melde dich an
 
 <div class="container center">
 <p>
-    Melde dich jetzt für ein kurzes Interview mit uns an und sichere dir deine Chance auf gaming Preise.
+    Melde dich jetzt für ein kurzes Interview mit uns an.<br>
+    Sichere dir deine Chance auf gaming Preise.
 </p>
 </div>
 
-<div class="container center">
-    <form target="_blank" action="https://formsubmit.co/3c6ea96846d936d717eeca43bb0bfe0e" method="POST">
-        <input type="text" name="name" placeholder="Name" required>
-        <input type="email" name="email" placeholder="Email Adresse" required>
-        <button type="submit">Anmelden</button>
+<div class="container">
+    <form id="signup" target="_blank" action="https://formsubmit.co/3c6ea96846d936d717eeca43bb0bfe0e" method="POST">
+        <div class="six columns">
+            <label for="name">Name:</label>
+            <input id="name" class="u-full-width" type="text" name="name" placeholder="Vorname Nachname" required>
+        </div>
+        <div class="six columns">
+            <label for="email">Email:</label>
+            <input id="email" class="u-full-width" type="email" name="email" placeholder="email@server.tld" required>
+        </div>
+        <label for="message">Willst du uns noch etwas sagen?</label>
+        <textarea id="message" class="u-full-width" placeholder="Hi, bitte kontaktiert mich ..." ></textarea>
+        <input class="button-primary u-full-width" type="submit" value="Anmelden">
         <input type="text" name="_honey" style="display:none">
     </form>
 </div>

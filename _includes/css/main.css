@@ -355,3 +355,17 @@ nav ul li:hover, nav ul li.active {
     column-count:         2;
   }
 }
+
+.icon-title {
+  margin-bottom: 0px;
+}
+
+#signup input[type="text"],
+#signup input[type="email"],
+#signup textarea {
+  color: #111111;
+}
+#signup input[type="submit"] {
+  font-size: 1.8rem; line-height: 1.5;  letter-spacing: -.05rem;
+  height: 72px;
+}

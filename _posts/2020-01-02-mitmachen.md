@@ -29,6 +29,7 @@ fa-icon: user
         <input class="button-primary u-full-width" type="submit" value="Anmelden">
         <input type="text" name="_honey" style="display:none">
         <input type="hidden" name="_template" value="table">
+        <input type="hidden" name="_captcha" value="false">
     </form>
 </div>
 

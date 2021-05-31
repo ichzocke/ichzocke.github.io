@@ -18,8 +18,9 @@ Sensengasse 3a (Raum O4.04)
 [hallo@ichzocke.at](mailto:hallo@ichzocke.at?subject=[Anfrage])  
 [Flyer herunderladen](./download/FlyerIchZocke.pdf)
 
-### Open Source & Design
+### Technik & Design
 
+Technische Umsetzung von Dominik Moser  
 Theme design von Tim O'Brien  
 Flyer design von Canva  
-Icon design von fontawesome  
+Icon design von FontAwesome  

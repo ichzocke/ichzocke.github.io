@@ -5,7 +5,7 @@ color: black
 fa-icon: flask
 ---
 
-## Forschung im Videospiel Bereich
+## Forschung im Videospiel-Bereich
 
 Computerspiele sind aus unserem Alltag nicht mehr weg zu denken. Egal ob per Handy, Computer, Konsole oder Tablet, etc. gespielt wird, immer mehr Menschen, vor allem auch junge Erwachsene, verbringen ihre Freizeit mit digitalen Spielen.
 

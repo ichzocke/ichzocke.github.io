@@ -7,11 +7,28 @@ fa-icon: comments-o
 
 ## Verantwortlich für den Inhalt
 
-[Univ.-Ass. Mag. Christin Reisenhofer, BA MA](https://bildungswissenschaft.univie.ac.at/psychoanalytische-paedagogik/personal/wissenschaftliche-mitarbeiterinnen/reisenhofer-christin/)
-
-[Institut für Bildungswissenschaft](https://bildungswissenschaft.univie.ac.at/)  
-Sensengasse 3a (Raum O4.04)  
-1090 Wien  
+<div class="row">
+    <div class="seven columns">
+        <p>
+            <a href="https://bildungswissenschaft.univie.ac.atpsychoanalytische-paedagogik/personal/wissenschaftliche-mitarbeiterinnen/reisenhofer-christin/">Univ.-Ass. Mag. Christin Reisenhofer, BA MA</a>
+        </p>
+    </div>
+    <div class="five columns">
+        <img class="u-max-full-width" src="img/uni_logo.png">
+    </div>
+</div>
+<div class="row">
+    <div class="seven columns">
+        <p>
+            <a href="https://bildungswissenschaft.univie.ac.at/">Institut für Bildungswissenschaft</a><br />
+            Sensengasse 3a (Raum O4.04)<br />
+            1090 Wien
+        </p>
+    </div>
+    <div class="five columns">
+        <img class="u-max-full-width" src="img/biwi_logo.png">
+    </div>
+</div>
 
 ### Presse & Kontakt
 

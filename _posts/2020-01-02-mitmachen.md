@@ -25,9 +25,10 @@ fa-icon: user
             <input id="email" class="u-full-width" type="email" name="email" placeholder="vorname.nachname@gmail.com" required>
         </div>
         <label for="message">Willst du uns noch etwas sagen?</label>
-        <textarea id="message" class="u-full-width" placeholder="Hi, bitte kontaktiert mich lieber unter folgender Telefonnummer..." ></textarea>
+        <textarea id="message" class="u-full-width" name="message" placeholder="Hi, bitte kontaktiert mich lieber unter folgender Telefonnummer..." ></textarea>
         <input class="button-primary u-full-width" type="submit" value="Anmelden">
         <input type="text" name="_honey" style="display:none">
+        <input type="hidden" name="_template" value="table">
     </form>
 </div>
 

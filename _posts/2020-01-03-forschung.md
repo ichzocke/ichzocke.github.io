@@ -7,11 +7,11 @@ fa-icon: flask
 
 ## Forschung im Videospiel-Bereich
 
-Computerspiele sind aus unserem Alltag nicht mehr weg zu denken. Egal ob per Handy, Computer, Konsole oder Tablet, etc. gespielt wird, immer mehr Menschen, vor allem auch Jugendliche und junge Erwachsene, verbringen ihre Freizeit mit digitalen Spielen.
+Computerspiele sind aus unserem Alltag nicht mehr weg zu denken. Egal, ob per Handy, Computer, Konsole oder Tablet, etc. gespielt wird, immer mehr Menschen, vor allem auch Jugendliche und junge Erwachsene, verbringen ihre Freizeit mit digitalen Spielen.
 
 Wir wollen das Computerspielen von Jugendlichen und jungen Erwachsenen untersuchen: Was bedeutet ihnen das Spielen? Warum spielen sie? Was lieben sie am Spielen?
 
-Uns interessiert auch ob sich das Zocken während der COVID-19 Pandemie verändert hat. Wird nun mehr gespielt? Hat das Spielen nun eine andere Bedeutung? Oder hat sich gar nichts verändert?
+Uns interessiert auch, ob sich das Zocken während der COVID-19 Pandemie verändert hat. Wird nun mehr gespielt? Hat das Spielen nun eine andere Bedeutung? Oder hat sich gar nichts verändert?
 Damit wir diese Fragen erforschen können, bitten wir Jugendliche und junge Erwachsene zwischen 11 und 21 Jahren uns über ihr Spielen zu erzählen.
 
 ## Wer sind die Forschenden?

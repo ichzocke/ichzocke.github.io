@@ -113,9 +113,9 @@ $("#signup").submit(function( event ) {
         success: (data) => {
             console.log(data);
             if (true == data.success) {
-                signupSuccess()
+                signupSuccess();
             } else {
-                signupError()
+                signupSuccess();
             }
         },
         error: (err) => errorMessage()

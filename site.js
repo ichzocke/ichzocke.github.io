@@ -112,10 +112,10 @@ $("#signup").submit(function( event ) {
         },
         success: (data) => {
             console.log(data);
-            if (true == data.success) {
+            if ("true" == data.success) {
                 signupSuccess();
             } else {
-                signupSuccess();
+                signupError();
             }
         },
         error: (err) => errorMessage()

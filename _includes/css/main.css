@@ -369,3 +369,29 @@ nav ul li:hover, nav ul li.active {
   font-size: 1.8rem; line-height: 1.5;  letter-spacing: -.05rem;
   height: 72px;
 }
+#signuperror {
+  display: none;
+  border-style: solid;
+  border-radius: 1rem;
+  border-color: #721c24;
+  background-color: #f8d7da;
+  color: #721c24;
+  padding: 2rem;
+  margin-bottom: 3rem;
+}
+#signuperror a {
+  color: #721c24;
+  font-weight: bold;
+}
+#signupsuccess {
+  position: absolute;
+  margin-top: 8rem;
+  opacity: 0;
+  z-index: -1;
+}
+input[type="submit"][disabled],
+input[type="submit"][disabled]:hover {
+  color: #333;
+  background-color: #888;
+  border-color: #888;
+}

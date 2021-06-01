@@ -125,7 +125,7 @@ $("#signup").submit(function( event ) {
 function signupSuccess() {
     $("#signuperror").fadeOut("fast");
     $("#signup").fadeTo(500, 0);
-    $("#signupsuccess").css('z-index', 999).fadeTo(500, 1);
+    $("#signupsuccess").css('z-index', 99).fadeTo(500, 1);
 }
 
 function signupError() {

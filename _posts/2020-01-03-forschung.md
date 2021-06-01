@@ -37,7 +37,7 @@ Wir, das sind Christin und Andreas. Wir sind Jungwissenschaftler*innen und spiel
     <div class="eight columns">
         <p>
             Ich heiße Andreas, bin 35 Jahre alt und habe schon im Volksschulalter mit Gameboy, Nintendo und Super Nintendo meine ersten Gaming-Erfahrungen an der Seite von Super Mario gesammelt.<br />
-            Mittlerweile zocke ich auf meiner PS5 sowohl Ego-Shooter wie Rainbow Six Siege als auch Action-Adventure und kleinere Indie-Titel. Zu meinen Lieblings-Games der letzten Jahre zählen unter Anderem Death Stranding, TLOU2, RDR2 oder Ghost of Tsushima. 
+            Mittlerweile zocke ich auf meiner PS5 sowohl Ego-Shooter wie Rainbow Six Siege als auch Action-Adventure und kleinere Indie-Titel. Zu meinen Lieblings-Games der letzten Jahre zählen unter anderem Death Stranding, TLOU2, RDR2 oder Ghost of Tsushima.
         </p>
         <p>
             Ich studiere Bildungswissenschaft an der Uni Wien und habe die letzten Jahre in einer sozialpädagogischen Wohngemeinschaft mit Kindern, Jugendlichen gearbeitet. 

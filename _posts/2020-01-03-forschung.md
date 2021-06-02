@@ -40,7 +40,7 @@ Wir, das sind Christin und Andreas. Wir sind Jungwissenschaftler*innen und spiel
             Mittlerweile zocke ich auf meiner PS5 sowohl Ego-Shooter wie Rainbow Six Siege als auch Action-Adventure und kleinere Indie-Titel. Zu meinen Lieblings-Games der letzten Jahre zählen unter anderem Death Stranding, TLOU2, RDR2 oder Ghost of Tsushima.
         </p>
         <p>
-            Ich studiere Bildungswissenschaft an der Uni Wien und habe die letzten Jahre in einer sozialpädagogischen Wohngemeinschaft mit Kindern, Jugendlichen gearbeitet. 
+            Ich studiere Bildungswissenschaft an der Uni Wien und habe die letzten Jahre in einer sozialpädagogischen Wohngemeinschaft mit Kindern und Jugendlichen gearbeitet.
         </p>
     </div>
     <div class="four columns">

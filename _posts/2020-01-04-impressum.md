@@ -10,7 +10,7 @@ fa-icon: comments-o
 <div class="row">
     <div class="seven columns">
         <p>
-            <a href="https://bildungswissenschaft.univie.ac.atpsychoanalytische-paedagogik/personal/wissenschaftliche-mitarbeiterinnen/reisenhofer-christin/">Univ.-Ass. Mag. Christin Reisenhofer, BA MA</a>
+            <a href="https://bildungswissenschaft.univie.ac.at/psychoanalytische-paedagogik/personal/wissenschaftliche-mitarbeiterinnen/reisenhofer-christin/">Univ.-Ass. Mag. Christin Reisenhofer, BA MA</a>
         </p>
     </div>
     <div class="five columns">

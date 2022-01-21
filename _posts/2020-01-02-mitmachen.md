@@ -31,7 +31,6 @@ fa-icon: user
         <input type="text" name="_honey" style="display:none">
         <input type="hidden" name="_subject" value="[Mitmachen]">
         <input type="hidden" name="_template" value="table">
-        <input type="hidden" name="_captcha" value="false">
     </form>
     <div id="signuperror" class="container center"></div>
 </div>

@@ -41,3 +41,5 @@ fa-icon: user
 Mit der Anmeldung über den _“Anmelden”_ Link erlaubst du uns dich im Rahmen des Forschungsprojektes zu kontaktieren. Deine Daten werden ausschließlich im Rahmen des Forschungsprojekts verwendet.
 Die Teilnahme ist für Jugendliche zwischen 11 und 21 Jahren möglich und kann jederzeit widerrufen werden.
 Mit der Teilnahme am Forschungsprojekt nimmst du außerdem am Gewinnspiel teil und kannst einen von _vier_ Gutscheinen für Videospiele im Wert von _25€_ gewinnen. Die Gewinnenden werden nach Abschluss des Forschungsprojekts schriftlich verständigt, der Rechtsweg ist ausgeschlossen.
+
+Das Gewinnspiel endet am 31. Dezember 2021.

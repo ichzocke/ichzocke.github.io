@@ -16,7 +16,8 @@ Damit wir diese Fragen erforschen können, bitten wir Jugendliche und junge Erwa
 
 ## Wer sind die Forschenden?
 
-Wir, das sind Christin und Andreas. Wir sind Jungwissenschaftler*innen und spielen beide leidenschaftlich gerne und interessieren uns deswegen für die Spieleforschung.
+Wir, das sind Christin, Andreas und eine kleine Gruppe Studierender des Bachelorstudiums Bildungswissenschaft an der Universität Wien. 
+Wir sind Jungwissenschaftler*innen und spielen leidenschaftlich gerne und interessieren uns deswegen für die Spieleforschung. 
 
 <div class="row">
     <div class="four columns">

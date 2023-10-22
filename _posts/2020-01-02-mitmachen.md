@@ -13,11 +13,15 @@ fa-icon: user
 </p>
 </div>
 
+### Triff uns auf unserem Discord
+
 <div class="container center">
 <p>
     <a href="https://discord.gg/2HEhFjaBfH" target="_blank"><img src="img/joinDiscord.png" alt="Join our Discord"/></a>
 </p>
 </div>
+
+### Teilnahme via EMail oder Telefon
 
 <div class="container">
     <h1 id="signupsuccess">Vielen Dank für deine Teilnahme!</h1>

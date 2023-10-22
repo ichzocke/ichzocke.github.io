@@ -13,6 +13,12 @@ fa-icon: user
 </p>
 </div>
 
+<div class="container center">
+<p>
+    <a href="https://discord.gg/2HEhFjaBfH" target="_blank"><img src="img/joinDiscord.png" alt="Join our Discord"/></a>
+</p>
+</div>
+
 <div class="container">
     <h1 id="signupsuccess">Vielen Dank für deine Teilnahme!</h1>
     <form id="signup" target="_blank" action="https://formsubmit.co/3c6ea96846d936d717eeca43bb0bfe0e" method="POST">
